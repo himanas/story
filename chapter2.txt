@@ -1,0 +1,2 @@
+This is my second chapter to check the git merging feature
+
